@@ -1,5 +1,3 @@
-# Sara H Gardner
-
 About: add here
 
 ## Project Index

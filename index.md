@@ -1,5 +1,3 @@
-# Sara Gardner
-
 ## Title here
 
 About: add here

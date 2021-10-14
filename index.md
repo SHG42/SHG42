@@ -2,7 +2,7 @@
 
 About: add here
 
-### Project Index
+## Project Index
 
 [Star Catcher](https://star--catcher.herokuapp.com/) , an exercise in learning the ropes. [Repo](https://github.com/SHG42/star_catcher.git)
 

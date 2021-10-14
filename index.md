@@ -1,4 +1,8 @@
-# Project Index
+#Sara H Gardner
+
+About: add here
+
+### Project Index
 
 [Star Catcher](https://star--catcher.herokuapp.com/) , an exercise in learning the ropes. [Repo](https://github.com/SHG42/star_catcher.git)
 
@@ -6,4 +10,4 @@
 
 [Sunflame Mountain](https://sunflame-mountain.herokuapp.com/) , a challenge to myself and an exercise in testing how high I can fly. [Repo](https://github.com/SHG42/sunflame_mountain.git)
 
-[(back)](./)
+Contact: add here

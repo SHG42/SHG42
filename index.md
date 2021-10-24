@@ -1,4 +1,4 @@
-About: add here
+I am a creative person and I approach coding from that standpoint. I have come to enjoy coding as a creative endeavor where I can find the most effective and innovative ways to make my ideas work. Most of my hobbies involve art or writing, as well as outdoor activities such as swimming, hiking, or kayaking when it's available. I enjoy discussing and dissecting media with friends, especially if the subject matter is science fiction or fantasy.
 
 ## Project Index
 
@@ -8,4 +8,4 @@ About: add here
 
 [Sunflame Mountain](https://github.com/SHG42/sunflame_mountain.git) , a challenge to myself and an exercise in testing how high I can fly. [(Heroku deploy)](https://sunflame-mountain.herokuapp.com/)
 
-Contact: add here
+Contact: shg.webdev@gmail.com

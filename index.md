@@ -4,6 +4,11 @@ I am a creative person and I approach coding from that standpoint. I have come t
 
 ***
 
+## Code Sample:
+[The Phaser CE Platformer Ledge Climb Solution](./code_sample.md).
+
+***
+
 ## Project Index
 
 [Star Catcher](https://github.com/SHG42/star_catcher.git) , an exercise in learning the ropes. [(Heroku deploy)](https://star--catcher.herokuapp.com/)
